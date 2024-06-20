@@ -11,7 +11,6 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <h3 align="center">Train Management System</h3>
 
