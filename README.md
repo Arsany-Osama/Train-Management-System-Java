@@ -51,14 +51,17 @@
 </br>
 Interface (After Sign iin page) 
 </br></br>
+
 ![Screenshot (201)](https://github.com/Arsany-Osama/Train-Management-System-Java/assets/160052013/c88d273a-9ea4-4ee2-ba71-0225cf8f8c3a)
 </br>
 Booking ticket interface:
 </br></br>
+
 ![Screenshot (202)](https://github.com/Arsany-Osama/Train-Management-System-Java/assets/160052013/c3281a71-2a5d-4d4a-9aab-e1e1d9a0b77e)
 </br>
 Seats interface:
 </br></br>
+
 ![Screenshot (203)](https://github.com/Arsany-Osama/Train-Management-System-Java/assets/160052013/b08971d0-b1a0-49c1-9739-5576a36daab4)
 </br>
 Receipt & QR code:
